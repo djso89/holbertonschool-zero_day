@@ -1,0 +1,1 @@
+This is emacs read me.
